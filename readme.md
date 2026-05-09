@@ -25,5 +25,3 @@
 - Node.js
 - GitHub Actions
 - JSONPlaceholder API
-
----# trigger actions
